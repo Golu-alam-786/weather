@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "109721846068",
+    "firebase_url": "https://adminpannel-46e78-default-rtdb.firebaseio.com",
+    "project_id": "adminpannel-46e78",
+    "storage_bucket": "adminpannel-46e78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109721846068:android:0f8f37c732aaa92e43e561",
+        "android_client_info": {
+          "package_name": "com.example.admin_pannel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109721846068-4l0tsq4rif7aqmdk7ijgbqrs6flc11t1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin_pannel",
+            "certificate_hash": "35fd9ffda6337ca83e7618eb61cab28b33fdba9f"
+          }
+        },
+        {
+          "client_id": "109721846068-4fuo24rv94u6ja40dpisv8fih77aif6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiGa79im3if3-xdX4WQTKXUubZH9wjyrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109721846068-4fuo24rv94u6ja40dpisv8fih77aif6i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "109721846068-hhl0f1d5us4tarfn2tot204hd5ahfcd2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.adminPannel.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109721846068:android:1999c4c371c8a7c043e561",
+        "android_client_info": {
+          "package_name": "com.example.newtok_tech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109721846068-4fuo24rv94u6ja40dpisv8fih77aif6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiGa79im3if3-xdX4WQTKXUubZH9wjyrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109721846068-4fuo24rv94u6ja40dpisv8fih77aif6i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "109721846068-hhl0f1d5us4tarfn2tot204hd5ahfcd2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.adminPannel.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
